@@ -12,7 +12,7 @@ int main(void)
 }
 void aplaud(void)
 {
-	printf("For he's a jolly ggod fellow!\n");
+	printf("For he's a jolly good fellow!\n");
 
 }
 void approve(void)

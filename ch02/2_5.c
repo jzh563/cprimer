@@ -1,11 +1,9 @@
 #include<stdio.h>
 int main(void)
 {
-	int toes, sum, square;
+	int toes;
 	toes = 10;
-	sum = toes +toes;
-	square = toes * toes;
-	printf("toes=%d,toes+toes=%d,toes aquare=%d\n ", toes, sum, square);
+	printf("toes=%d,\ntoes+toes=%d,\ntoes aquare=%d\n ", toes, toes + toes, toes * toes);
 	getchar();
 	return 0;
 
