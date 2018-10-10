@@ -17,6 +17,7 @@ int main()
 	printf("also,your first name has %d letters,\n", letters);
 	printf("and we have %d bytes to store it in.\n", size);
 	getchar();
+
 	getchar();
 	return 0;
 }
